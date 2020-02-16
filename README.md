@@ -2,4 +2,4 @@
 
 Current Objectives for the Project
 
-- Create an LSTM RNN that will play poker
+- Implement a LSTM (Long Short-Term Memory) Recurrent Neural Network that will play Poker (Texas Hold Em) using Unsupervised Learning 
