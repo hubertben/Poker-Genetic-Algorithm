@@ -1,3 +1,3 @@
 # Current Project Objectives
 
-- [ ] Implement LSTM RNN
+- [x] Implement LSTM RNN
