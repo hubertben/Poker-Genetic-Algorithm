@@ -2,4 +2,4 @@
 
 Current Objectives for the Project
 
-> Create an LSTM RNN that will play poker
+- Create an LSTM RNN that will play poker
